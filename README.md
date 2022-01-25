@@ -5,7 +5,7 @@ In this project, we make use of PyCantonese, a Python library for Cantonese ling
 * Cantonese.sql creates tables in the database
 * HKCanCor.py inserts records into tables
 # Prepare
-* list_of_sfps.sql: basic analysis concerning frequencies of SFPs in the corpus.
+* list_of_frequency.sql: basic analysis concerning frequencies of SFPs in the corpus.
 * SFP-example.sql searches for full sentences with SFPs that match our research interest. 
 # Access
 * Cantonese_queries.xml: output of result queries.
