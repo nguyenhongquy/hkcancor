@@ -1,0 +1,23 @@
+
+relational database
+01_full_sentence - full_sentence
+02_pos - pos
+03_sentence - sentence
+04_words - words
+
+Frequency
+05_List of SFP - l05_sfps
+06_List of SFPs grouped by 6 tones - l06_sfps_6_tones
+07_Tonal frequency of SFPs - l07_tonal_freq
+08_List of SFPs with coda 'k'- l08_coda_k
+09_List of SFPs that ryhme - l09_sfps_ryhme
+
+Examples
+10_Examples of discontinuous construction (mai6...lo1) - l10_mai_lo
+11_Examples of question particles (all types of question) - l11_ques
+12_Examples of YN question  - l12_yn_ques
+13_Examples of Wh question particles - l13_Wh_ques
+14_Examples of aa1, aa3, aa6 - l14_aa
+15_Examples of SFPs used after adv - l15_adv_sfp
+16_Examples of right dislocation - l16_rd
+17_Examples of SFP clusters - l17_cluster
